@@ -1,3 +1,2 @@
-# proyecto-documental-equipoGonzalez
-
-Estoy en la rama de Alberto
+# proyecto-documental-
+Estoy en la rama de Hugo y Alberto
